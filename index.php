@@ -681,31 +681,31 @@ $result = $stmt->get_result();
   <div id="concertCarousel" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="sebong.jpg" class="d-block w-100" alt="SEVENTEEN">
+        <img src="../git/uploads/1747885658_svt.jpeg" class="d-block w-100" alt="SEVENTEEN">
         <div class="carousel-caption-modern">
           <h2>SEVENTEEN</h2>
         </div>
       </div>
       <div class="carousel-item active">
-        <img src="day6.jpeg" class="d-block w-100" alt="Day6">
+        <img src="../git/uploads/1747885816_day6.jpeg" class="d-block w-100" alt="Day6">
         <div class="carousel-caption-modern">
           <h2>Day6</h2>
         </div>
       </div>
       <div class="carousel-item active">
-        <img src="skz.jpeg" class="d-block w-100" alt="Straykids">
+        <img src="../git/uploads/1748363263_10974de7097337f96344d25043ce0093.jpg" class="d-block w-100" alt="Straykids">
         <div class="carousel-caption-modern">
-          <h2>Straykids</h2>
+          <h2>Byeon Woo Seok</h2>
         </div>
       </div>
       <div class="carousel-item active">
-        <img src="aespa.jpg" class="d-block w-100" alt="Aespa">
+        <img src="../git/uploads/1748179695_aespa.jpg" class="d-block w-100" alt="Aespa">
         <div class="carousel-caption-modern">
           <h2>Aespa</h2>
         </div>
       </div>
       <div class="carousel-item active">
-        <img src="twice.jpg" class="d-block w-100" alt="Twice">
+        <img src="../git/uploads/1748362928_twice.jpg" class="d-block w-100" alt="Twice">
         <div class="carousel-caption-modern">
           <h2>Twice</h2>
         </div>
